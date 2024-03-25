@@ -134,8 +134,10 @@ div.video {
     background-color: var(--cor5);
     margin: 0px 20px 30px -20px;
     padding: 20px;
-    padding-bottom: 55%;
+    padding-bottom:55%;
+    margin: auto;
     position: relative;
+    bottom: 20px;
 }
 div.video > iframe {
     position: absolute;
